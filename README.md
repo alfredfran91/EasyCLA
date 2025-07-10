@@ -1,10 +1,37 @@
-# FinOps Open Cost and Usage Specification Membership Onboarding
+# FinOps Open Cost and Usage Specification Contributor Enrollment
 
-This is a neutral repo where you can open a trivial PR and initiate the EasyCLA signing process. All PRs will be closed periodically.
+This is a neutral repo where you can open a trivial PR and initiate the EasyCLA enrollment process. All PRs will be closed periodically.
+
+# Becoming a FOCUS Contributor
+
+The FOCUS enrollment process involves two main steps:
+ 
+## **Step 1 – Sign the Membership Agreement & Assign Company Contacts**
+
+- Begin by using this [enrollment link](https://enrollment.lfx.linuxfoundation.org/?project=finopsopenbillingspec) to register your company. *(Note: You will need a Linux Foundation ID to complete the process. If you don’t have one, you will be prompted to create one.)*
+- A designated company representative should complete the enrollment form.
+- Once submitted, Linux Foundation staff will be notified of your request and will send you the Membership Agreement for signature.
+- After the agreement is signed by all parties—your company, FOCUS, and the Linux Foundation—the FOCUS Program Manager will be notified and will initiate **Step 2**.
+- At this stage, your company must assign a **CLA Manager** (Corporate License Agreement Manager) or technical contact. This individual will be responsible for approving your company’s contributors to the FOCUS project on GitHub.
+
+---
+
+## **Step 2 – Complete Contributor Registration via EasyCLA**
+
+- After **Step 1** is complete, your designated **CLA Manager** will receive access to the **EasyCLA platform**, which manages contributor authorization for the FOCUS project.
+- Each individual contributor from a company must:
+  1. Open a Pull Request (PR) in this repository [EasyCLA GitHub repository](https://github.com/communitybridge/easycla) following the instructions provided in this README file.
+  2. Wait for the CLA Manager to review and approve their contribution request.
+  3. **Return** to the PR and **click** the red "CLA not signed" label to complete the registration.
+
+- Once these steps are completed, the FOCUS Program Manager will send the contributor invitations to join the project’s **Slack workspace**, **GitHub organization**, and **shared Google Drive**.
+
+For further details, refer to the remaining sections of this EasyCLA README document, which outline the full process for becoming an authorized contributor to the FOCUS project.
+
 
 # Contributing to this repo
 
-This repository is managed by EasyCLA. Project participants must sign the free [FOCUS Specification Membership agreement](https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation/blob/main/FOCUS_-_Membership_Agreement_Package_for_use.pdf) before making a contribution. You only need to do this one time, and it can only be signed by corporations and their employees approved to contribute.
+This repository is managed by EasyCLA. Project participant's company must be a FOCUS Member before making a contribution. You only need to do this one time, and your PR request must be approved by your company CLA Manager.
 
 You can find [detailed information here](https://github.com/FinOps-Open-Cost-and-Usage-Spec/foundation). If you have issues, please email [focus@finops.org](mailto:focus@finops.org).
  
